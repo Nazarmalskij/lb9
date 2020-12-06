@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Project\Lb9\LB9.1B\Source.cpp(124,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Lb9\LB9.1B\Source.cpp(128,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Lb9\LB9.1B\Source.cpp(132,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Lb9\LB9.1B\Source.cpp(136,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Lb9\LB9.1B\Source.cpp(140,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LB9.1B.vcxproj -> D:\Project\Lb9\LB9.1B\Debug\LB9.1B.exe

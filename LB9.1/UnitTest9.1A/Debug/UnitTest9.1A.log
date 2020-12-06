@@ -1,0 +1,5 @@
+﻿  UnitTest9.1A.cpp
+D:\Project\Lb9\LB9.1\Source.cpp(77,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Lb9\LB9.1\Source.cpp(81,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Lb9\LB9.1\Source.cpp(85,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  UnitTest9.1A.vcxproj -> D:\Project\Lb9\LB9.1\Debug\UnitTest9.1A.dll
